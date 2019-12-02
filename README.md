@@ -18,7 +18,7 @@ Prerequisite: Should have a minimal knowledge of Python, Django, PostgreSQL, JQu
 
 4) Start your django server using python manage.py runserver 
 
-5) And there you go, Test your Bot on https://127.0.0.1:8000
+5) And there you go, Test your Bot on https://127.0.0.1:8000 or http://127.0.0.1:8000 
 
 # What he knows
 - Specify the no. of questions or he will get 5 results.
