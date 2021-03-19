@@ -6,7 +6,7 @@ chardet==3.0.4
 chatbotAI==0.1.2.4
 Click==7.0
 Django==1.11.5
-djangorestframework==3.10.3
+djangorestframework==3.11.2
 Flask==1.1.1
 idna==2.8
 idna-ssl==1.1.0
